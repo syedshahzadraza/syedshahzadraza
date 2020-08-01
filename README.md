@@ -1,4 +1,4 @@
-[![Syed Shahzad Raza](https://razaanalytics.com/images/personal_banner.png "Syed Shahzad Raza")](https://www.linkedin.com/in/syed-shahzad-raza/ "Syed Shahzad Raza")
+[![Syed Shahzad Raza](https://razaanalytics.com/images/banner.png "Syed Shahzad Raza")](https://www.linkedin.com/in/syed-shahzad-raza/ "Syed Shahzad Raza")
 
 ### Syed Shahzad Raza
 
